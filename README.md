@@ -1,6 +1,6 @@
 # Python Einführung
 ## Autor
-Ute
+Ute Trautwein-Bruns
 ## Datum
 2019-11-27
 
