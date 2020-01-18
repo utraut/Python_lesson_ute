@@ -1,0 +1,12 @@
+Git Befehle:
+
+$ git init 		initiiert ein Repository an dieser Stelle
+$ git status		
+$ touch index.md	erzeugt eine leere Datei
+$ git add index.md
+$ git commit -m 'Add index.md'
+
+
+$ git remote add origin https://github.com/some-librarian/hello-world.git
+$ git remote -v
+$ git push -u origin master
